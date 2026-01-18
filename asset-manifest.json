@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/harshav-portfolio/static/css/main.6cebb1f6.css",
+    "main.js": "/harshav-portfolio/static/js/main.37e2dec4.js",
+    "index.html": "/harshav-portfolio/index.html",
+    "main.6cebb1f6.css.map": "/harshav-portfolio/static/css/main.6cebb1f6.css.map",
+    "main.37e2dec4.js.map": "/harshav-portfolio/static/js/main.37e2dec4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cebb1f6.css",
+    "static/js/main.37e2dec4.js"
+  ]
+}
