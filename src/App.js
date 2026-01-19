@@ -333,7 +333,7 @@ export default function Portfolio() {
       <footer className="bg-slate-800 text-white py-8 px-4">
         <div className="max-w-6xl mx-auto text-center">
           <p className="text-slate-300">© 2026 Harsha Vardhini Agatamudi. All rights reserved.</p>
-          <p className="text-slate-400 text-sm mt-2">Built with React & Tailwind CSS</p>
+          {/* <p className="text-slate-400 text-sm mt-2">Built with React & Tailwind CSS</p> */}
         </div>
       </footer>
     </div>
